@@ -5,3 +5,4 @@ Creating a new branch is quick AND simple.
 add merge
 test
 test2
+test3
